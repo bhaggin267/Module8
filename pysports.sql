@@ -11,7 +11,7 @@ CREATE TABLE team (
 
 
 CREATE TABLE player( 
-    player_id    INT          NOT NULL     AUTO_INCREMENT,
+    player_id    INT          NOT NULL     AUTO_INCREMENT,sql
     first_name   VARCHAR(75)  NOT NULL, 
     last_name    VARCHAR(75)  NOT NULL,
     team_id      INT          NOT NULL, 
